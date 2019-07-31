@@ -4,4 +4,4 @@
 
 ## What is complementary?
 
-Complementary is not an icon theme, it uses Elementary icon theme as main theme by adding third-party application icons so the Elementary icon theme should be installed.
+Complementary is not an icon theme, it uses Elementary icon theme as main theme by adding third-party application icons therefore the Elementary icon theme should be installed.

@@ -10,6 +10,6 @@ Due to Elementary OS philosophy there are not third-party icons included in it's
 
 ## Installation
 
-Download the project from GitHub
-Copy complementary folder into ./icons folder of your home.
-run gsettings set org.gnome.desktop.interface icon-theme complementary
+1. Download the project from GitHub
+2. Copy complementary folder into ./icons folder of your home.
+3. run gsettings set org.gnome.desktop.interface icon-theme complementary

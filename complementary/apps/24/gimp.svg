@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,10 +13,22 @@
    viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="gimp-paper-24.svg">
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="gimp_24.svg">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient882">
+      <stop
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0"
+         id="stop878" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop880" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4192">
@@ -94,11 +104,11 @@
     <linearGradient
        id="linearGradient3779">
       <stop
-         style="stop-color:#9b926e;stop-opacity:1"
+         style="stop-color:#a3907c;stop-opacity:1"
          offset="0"
          id="stop3781" />
       <stop
-         style="stop-color:#403b32;stop-opacity:1"
+         style="stop-color:#57392d;stop-opacity:1"
          offset="1"
          id="stop3783" />
     </linearGradient>
@@ -117,11 +127,11 @@
        inkscape:collect="always"
        id="linearGradient4210">
       <stop
-         style="stop-color:#4b4b4b;stop-opacity:1"
+         style="stop-color:#666666;stop-opacity:1"
          offset="0"
          id="stop4212" />
       <stop
-         style="stop-color:#141414;stop-opacity:1"
+         style="stop-color:#000000;stop-opacity:1"
          offset="1"
          id="stop4214" />
     </linearGradient>
@@ -160,7 +170,7 @@
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4267"
+       xlink:href="#linearGradient882"
        id="radialGradient4273"
        cx="22"
        cy="25.997799"
@@ -222,18 +232,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.329198"
-     inkscape:cx="7.924246"
-     inkscape:cy="8.503721"
+     inkscape:zoom="20.658396"
+     inkscape:cx="4.6204227"
+     inkscape:cy="18.024807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="705"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4282" />
@@ -281,7 +292,7 @@
        id="path4185"
        transform="translate(0,1028.3622)"
        d="m 4,3.5 c -1,0 -1.5,0.4999977 -1.5,4 l 0,2.5 c 0,7 3.5,9 8,10.5 l 3,0 C 18,19 21.5,17 21.5,10 l 0,-2.5 c 0,-3.4999999 -0.5,-4 -1.5,-4 0,2.5 -2,3 -4.5,3 l -7,0 C 6,6.5 4,6 4,3.5 Z"
-       style="opacity:0.6;fill:none;fill-opacity:1;stroke:#191611;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.8;fill:none;fill-opacity:1;stroke:#3d211b;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
        style="opacity:1;fill:url(#radialGradient4216);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4206"
@@ -321,7 +332,7 @@
        cy="1039.3622"
        cx="7.9999986"
        id="ellipse4318"
-       style="opacity:0.60000001;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.8;fill:none;fill-opacity:1;stroke:#3d211b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
        ry="2.9999676"
        rx="3"
@@ -335,7 +346,7 @@
        d="m 15.929686,1038.3651 a 1.9999999,1.9999782 0 0 0 -1.929687,1.9971 1.9999999,1.9999782 0 0 0 2,2 1.9999999,1.9999782 0 0 0 2,-2 1.9999999,1.9999782 0 0 0 -1.900391,-1.9951 0.99999998,0.99998918 0 0 1 0.900391,0.9951 0.99999998,0.99998918 0 0 1 -1,1 0.99999998,0.99998918 0 0 1 -1,-1 0.99999998,0.99998918 0 0 1 0.929687,-0.9971 z"
        style="opacity:1;fill:url(#radialGradient4344);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
-       style="opacity:0.6;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.8;fill:none;fill-opacity:1;stroke:#3d211b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse4340"
        cx="15.999998"
        cy="1039.3622"

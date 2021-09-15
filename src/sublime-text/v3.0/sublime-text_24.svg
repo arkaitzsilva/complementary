@@ -12,7 +12,7 @@
    width="24"
    height="24"
    id="svg6649"
-   inkscape:version="1.0.1 (1.0.1+r75)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="sublime-text_24.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,7 +28,7 @@
      id="namedview42"
      showgrid="true"
      inkscape:zoom="20.666667"
-     inkscape:cx="12"
+     inkscape:cx="11.782258"
      inkscape:cy="14.735303"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -361,19 +361,10 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient934"
-       id="linearGradient1111"
-       x1="12"
-       y1="6"
-       x2="12"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient934"
        id="linearGradient1121"
        gradientUnits="userSpaceOnUse"
        x1="12"
-       y1="12"
+       y1="6"
        x2="12"
        y2="18" />
     <linearGradient
@@ -480,17 +471,11 @@
      d="m 16,7 -8,3 v 3 l 4,1.5 -4,1.5 v 3 l 8,-3 V 13 L 12,11.5 16,10 Z" />
   <path
      id="path14-7-7-2"
-     d="M 15.999999,12.000027 8,15 v 3 l 7.999999,-2.999973 z"
-     style="fill:url(#linearGradient1121);stroke-width:0.714286;fill-opacity:1.0"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     id="path14-7-7"
-     style="fill:url(#linearGradient1111);stroke-width:0.714286;fill-opacity:1"
-     d="M 16 6 L 8 9 L 8 12 L 16 15 L 16 12 L 12 10.5 L 16 9 L 16 6 z " />
+     style="fill:url(#linearGradient1121);stroke-width:0.714286;fill-opacity:1"
+     d="M 16 6 L 8 9 L 8 12 L 12 13.5 L 8 15 L 8 18 L 16 15 L 16 12 L 12 10.5 L 16 9 L 16 6 z " />
   <path
      id="path14-7-7-2-2"
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.714286"
+     style="opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:0.714286"
      d="m 12,13.5 -1.333984,0.5 4,1.5 L 16,15 Z" />
   <rect
      style="opacity:0.35;fill:none;stroke:url(#linearGradient5397);stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

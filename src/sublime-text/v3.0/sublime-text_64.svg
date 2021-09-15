@@ -12,7 +12,7 @@
    width="64"
    height="64"
    id="svg6649"
-   inkscape:version="1.0.1 (1.0.1+r75)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="sublime-text_64.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -27,8 +27,8 @@
      inkscape:window-height="705"
      id="namedview42"
      showgrid="true"
-     inkscape:zoom="5.8778251"
-     inkscape:cx="39.330356"
+     inkscape:zoom="8.3125"
+     inkscape:cx="38.789002"
      inkscape:cy="38.059241"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -282,19 +282,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient900"
-       id="linearGradient923-3-3"
-       x1="32"
-       y1="32"
-       x2="32"
-       y2="61.999996"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-19.999997)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient900"
        id="linearGradient923-3-3-9"
        x1="32"
-       y1="32"
+       y1="12"
        x2="32"
        y2="52"
        gradientUnits="userSpaceOnUse" />
@@ -405,16 +395,10 @@
      d="M 45.999998,12.999922 18,22.999922 v 10 l 14,5 -14,5 v 10 l 27.999998,-10 v -10 l -13.999998,-5 13.999998,-5 z" />
   <path
      id="path14-7-7-5-2-7"
-     d="M 46,32 18,42 V 52 L 46,42 Z"
      style="fill:url(#linearGradient923-3-3-9);fill-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     id="path14-7-7-5-2"
-     style="fill:url(#linearGradient923-3-3);fill-opacity:1"
-     d="M 46 12 L 18 22 L 18 32 L 46 42 L 46 32 L 32 27 L 46 22 L 46 12 z " />
+     d="M 46 12 L 18 22 L 18 32 L 32 37 L 18 42 L 18 52 L 46 42 L 46 32 L 32 27 L 46 22 L 46 12 z " />
   <path
      id="path14-7-7-5-2-7-0"
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
+     style="opacity:0.4;fill:#000000;fill-opacity:1"
      d="m 32,37 -1.400391,0.5 14.000001,5 L 46,42 Z" />
 </svg>

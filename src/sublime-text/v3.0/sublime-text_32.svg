@@ -12,7 +12,7 @@
    width="32"
    height="32"
    id="svg6649"
-   inkscape:version="1.0.1 (1.0.1+r75)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="sublime-text_32.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,7 +28,7 @@
      id="namedview42"
      showgrid="true"
      inkscape:zoom="15.5"
-     inkscape:cx="16"
+     inkscape:cx="15.709678"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -331,20 +331,10 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient934"
-       id="linearGradient1157-1"
-       gradientUnits="userSpaceOnUse"
-       x1="16"
-       y1="1.3092105"
-       x2="16"
-       y2="16.506578"
-       gradientTransform="matrix(-1,0,0,0.98701299,32,4.707792)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient934"
        id="linearGradient1157-19"
        gradientUnits="userSpaceOnUse"
        x1="16.000002"
-       y1="6.375"
+       y1="-3.7565787"
        x2="16.000002"
        y2="16.506578"
        gradientTransform="matrix(1,0,0,0.98701299,-2e-6,9.707792)" />
@@ -449,17 +439,11 @@
      d="m 23,6.999922 -14,5 v 5 l 7,2.5 -7,2.5 v 5 l 14,-5 v -5 l -7,-2.5 7,-2.5 z" />
   <path
      id="path12-6-6-73-8"
-     d="M 23,16 9,21 v 5 l 14,-5 z"
      style="fill:url(#linearGradient1157-19);fill-opacity:1;stroke:none;stroke-width:1.00656;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     id="path12-6-6-73-3"
-     style="fill:url(#linearGradient1157-1);fill-opacity:1;stroke:none;stroke-width:1.00656;stroke-opacity:1"
-     d="M 23,6 9,11 v 5 l 14,5 V 16 L 16,13.5 23,11 Z" />
+     d="M 23 6 L 9 11 L 9 16 L 16 18.5 L 9 21 L 9 26 L 23 21 L 23 16 L 16 13.5 L 23 11 L 23 6 z " />
   <path
      id="path12-6-6-73-8-6"
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00656;stroke-opacity:1"
+     style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00656;stroke-opacity:1"
      d="m 16,18.5 -1.400391,0.5 7,2.5 L 23,21 Z" />
   <rect
      style="opacity:0.35;fill:none;stroke:url(#linearGradient4161);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

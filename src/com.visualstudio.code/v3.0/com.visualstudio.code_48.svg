@@ -13,7 +13,7 @@
    height="48"
    id="svg4296"
    sodipodi:docname="com.visualstudio.code_48.svg"
-   inkscape:version="1.0.1 (1.0.1+r75)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,8 +28,8 @@
      id="namedview38"
      showgrid="true"
      inkscape:zoom="10.333333"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="23.758065"
+     inkscape:cy="20.129032"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -501,16 +501,20 @@
        gradientUnits="userSpaceOnUse"
        cy="4.3418999"
        cx="32"
-       gradientTransform="matrix(0,1.6258,-1.6258,0,31.059,-46.135)"
-       r="27.5">
+       gradientTransform="matrix(2.2113315e-6,1.3857964,-1.6258,2.5943081e-6,12.058929,-49.454895)"
+       r="27.5"
+       fx="32"
+       fy="4.3418999">
       <stop
          stop-color="#fafafa"
          offset="0"
-         id="stop33" />
+         id="stop33"
+         style="stop-color:#273445;stop-opacity:1" />
       <stop
          stop-color="#e1e1e1"
          offset="1"
-         id="stop35" />
+         id="stop35"
+         style="stop-color:#0e141f;stop-opacity:1" />
     </radialGradient>
     <linearGradient
        id="f"
@@ -603,8 +607,8 @@
      ry="1.5"
      height="38"
      width="38"
-     y="6"
-     x="5"
+     y="-5"
+     x="-14"
      fill="url(#b)"
      id="rect57" />
   <path
@@ -652,7 +656,7 @@
      x="5.5"
      fill="none"
      id="rect59"
-     style="stroke:url(#f)" />
+     style="stroke:url(#f);opacity:0.3" />
   <rect
      opacity="0.8"
      style="color:#000000;stroke:url(#g)"

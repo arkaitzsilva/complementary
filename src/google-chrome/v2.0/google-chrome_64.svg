@@ -14,7 +14,7 @@
    width="64"
    version="1.1"
    sodipodi:docname="google-chrome_64.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,8 +28,8 @@
      inkscape:window-height="705"
      id="namedview39"
      showgrid="true"
-     inkscape:zoom="7.75"
-     inkscape:cx="32"
+     inkscape:zoom="21.92031"
+     inkscape:cx="31.44932"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -373,11 +373,11 @@
     </rdf:RDF>
   </metadata>
   <circle
-     style="opacity:0.7;fill:#ffffff;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
-     id="path1288"
-     cx="32.003048"
-     cy="32.003067"
-     r="13.499999" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999;stroke-linecap:square"
+     id="path908"
+     cx="31.999998"
+     cy="31.999975"
+     r="13.5" />
   <rect
      style="opacity:0.4;fill:url(#radialGradient3802);fill-opacity:1;stroke:none"
      id="rect3793"
